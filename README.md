@@ -13,6 +13,12 @@ We’ll look into the open source PyWhy project for causal inference and the DoW
 
 Join us as we unravel the transformative potential of graphs and their impact on predictive modeling, explainability, and causality in the era of generative AI.
 
+Contents:
+
+1. Workshop slides
+
+2. Sample starter notebook
+
 Contact:
 
 [Amy Hodler](mailto:Amy@GraphGeeks.org) | [LinkedIn](https://www.linkedin.com/in/amyhodler/)
