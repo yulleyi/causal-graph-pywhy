@@ -30,3 +30,7 @@ Thank you:
 Patrick Blöbaum | [LinkedIn](https://www.linkedin.com/in/patrickbloebaum/)
 
 Jason Grafft | [LinkedIn](https://www.linkedin.com/in/jason-a-grafft-a73b431a1/)
+
+Other:
+
+If you are as confused as we were, watch this [amazing video](https://www.youtube.com/watch?v=-kWocwaXqlk) that explains frontdoor.
